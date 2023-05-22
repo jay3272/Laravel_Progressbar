@@ -4,7 +4,8 @@
 
 @section('content')
 
-<main>
+<main id="home">
+    <h1 class="title">Home</h1>
     <div class="card">
         <p class="title">Title</p>
         <div class="description">

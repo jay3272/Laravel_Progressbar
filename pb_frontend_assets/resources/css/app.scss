@@ -1,4 +1,14 @@
-h1 {
-    color: blue;
-    font-size: 26px;
+.card {
+    width: 400px;
+    border: 1px solid black;
+
+    .title {
+        font-size: 24px;
+        color: red;
+    }
+
+    .description {
+        font-size: 12px;
+        color: lightgray;
+    }
 }
