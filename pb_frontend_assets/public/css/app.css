@@ -1,16 +1,12 @@
-#home {
-  .card {
-    width: 400px;
-    border: 1px solid black;
-  }
-
-  .card .title {
-    font-size: 24px;
-    color: red;
-  }
-
-  .card .description {
-    font-size: 12px;
-    color: blue;
-  }
+.card {
+  width: 400px;
+  border: 1px solid black;
+}
+.card .title {
+  font-size: 24px;
+  color: red;
+}
+.card .description {
+  font-size: 12px;
+  color: lightgray;
 }
