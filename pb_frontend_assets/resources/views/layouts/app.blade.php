@@ -13,6 +13,7 @@
 <body>
     @include('layouts.nav')
     @yield('content')
+    <h1>test</h1>
 
     @include('layouts.footer')
     @include('layouts.js')
