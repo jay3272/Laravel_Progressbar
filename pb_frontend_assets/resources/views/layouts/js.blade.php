@@ -1,3 +1,1 @@
-<script>
-//alert('Hello, world!');
-</script>
+<script src="/js/app.js"></script>
